@@ -33,5 +33,3 @@ Write Terraform code that configures the GitHub repository according to the foll
 - add the PAT to the repository actions secrets key with the name `PAT` and the value of the created PAT.
 
 
-
-
